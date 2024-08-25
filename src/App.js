@@ -4,7 +4,6 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import PostList from './components/PostList';
 import PostDetails from './components/PostDetails';
-import PostForm from './components/PostForm';
 import NewPostPage from './pages/NewPostPage';
 import PostPage from './pages/PostPage';
 
