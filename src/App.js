@@ -7,7 +7,7 @@ import PostDetails from './components/PostDetails';
 import PostForm from './components/PostForm';
 import NewPostPage from './pages/NewPostPage';
 import PostPage from './pages/PostPage';
-import PostForm from './PostForm';
+
 
 const App = () => (
   <Router>
